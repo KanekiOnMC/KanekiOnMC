@@ -1,9 +1,9 @@
 ### <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px"> Hey guys, I'm KanekiOnMC and I'm a PHP(PMMP) and Javascript Dev
 #### 📊 Stats
 
-![My stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanekiOnMC&show_icons=true&theme=dark))
+![My stats](![Anurag's GitHub stats](https://github-readme-stat-topaz.vercel.app/api?username=KanekiOnMC&show_icons=true&theme=dark))
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiOnMC&layout=compact)
+![Most used languages](https://github-readme-stat-topaz.vercel.app/api/top-langs/?username=KanekiOnMC&layout=compact)
 <!--
 **KanekiLeChomeur/KanekiLeChomeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
